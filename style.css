@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    text-overflow: ellipsis;
+}
+.project{
+    background-color: aqua;
+    color: black;
+    font-size:22pt;
+    font-family: arial;
+    font-weight: lighter;
+    font-style: initial;
+    width: 30%;
+    height: 50%;
+}
